@@ -1,0 +1,28 @@
+I've created a modern and user-friendly rental homes application with the following features:
+
+Filtering Options:
+
+Property type filter (1BHK, 2BHK, 3BHK)
+Bachelors allowed filter (Yes/No)
+Rent range slider with maximum rent filter
+Property Cards:
+
+Property image
+Title and location
+Property type badge
+Bachelors allowed indicator
+Rent amount with Indian Rupee symbol
+UI Features:
+
+Clean and modern design with shadow effects
+Responsive grid layout
+Professional color scheme
+Clear visual hierarchy
+User-friendly filters
+Empty state handling
+Visual Elements:
+
+Used Lucide React icons for consistent styling
+High-quality property images from Unsplash
+Clear typography and spacing
+The app is fully responsive and will work well on both desktop and mobile devices. The filters are easy to use and provide immediate feedback as users make selections.
